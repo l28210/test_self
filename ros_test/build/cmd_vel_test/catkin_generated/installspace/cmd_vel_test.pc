@@ -1,0 +1,8 @@
+prefix=/home/l/test_self/ros_test/install
+
+Name: cmd_vel_test
+Description: Description of cmd_vel_test
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

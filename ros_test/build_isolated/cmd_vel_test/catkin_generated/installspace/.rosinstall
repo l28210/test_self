@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/l/test_self/ros_test/install_isolated/setup.sh
