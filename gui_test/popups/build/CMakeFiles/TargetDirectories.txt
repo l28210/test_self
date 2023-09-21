@@ -1,0 +1,10 @@
+/home/l/test_self/popups/build/CMakeFiles/edit_cache.dir
+/home/l/test_self/popups/build/CMakeFiles/rebuild_cache.dir
+/home/l/test_self/popups/build/CMakeFiles/Popups.dir
+/home/l/test_self/popups/build/elements/CMakeFiles/rebuild_cache.dir
+/home/l/test_self/popups/build/elements/CMakeFiles/edit_cache.dir
+/home/l/test_self/popups/build/elements/lib/CMakeFiles/rebuild_cache.dir
+/home/l/test_self/popups/build/elements/lib/CMakeFiles/edit_cache.dir
+/home/l/test_self/popups/build/elements/lib/CMakeFiles/elements.dir
+/home/l/test_self/popups/build/elements/lib/infra/CMakeFiles/rebuild_cache.dir
+/home/l/test_self/popups/build/elements/lib/infra/CMakeFiles/edit_cache.dir

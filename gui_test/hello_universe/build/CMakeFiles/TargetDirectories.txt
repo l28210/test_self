@@ -1,0 +1,10 @@
+/home/l/test_self/hello_universe/build/CMakeFiles/rebuild_cache.dir
+/home/l/test_self/hello_universe/build/CMakeFiles/edit_cache.dir
+/home/l/test_self/hello_universe/build/CMakeFiles/HelloUniverse.dir
+/home/l/test_self/hello_universe/build/elements/CMakeFiles/rebuild_cache.dir
+/home/l/test_self/hello_universe/build/elements/CMakeFiles/edit_cache.dir
+/home/l/test_self/hello_universe/build/elements/lib/CMakeFiles/rebuild_cache.dir
+/home/l/test_self/hello_universe/build/elements/lib/CMakeFiles/edit_cache.dir
+/home/l/test_self/hello_universe/build/elements/lib/CMakeFiles/elements.dir
+/home/l/test_self/hello_universe/build/elements/lib/infra/CMakeFiles/rebuild_cache.dir
+/home/l/test_self/hello_universe/build/elements/lib/infra/CMakeFiles/edit_cache.dir
