@@ -1,2 +1,2 @@
-cmd_vel_test
+vehicle_sim/launcher/vehicle_sim_launcher:vehicle_sim/vehicle/sensor_model/camera/camera_description:vehicle_sim/vehicle/sensor_model/imu/imu_description:vehicle_sim/vehicle/sensor_model/velodyne/velodyne_description:vehicle_sim/vehicle/sensor_model/velodyne/velodyne_gazebo_plugins:vehicle_sim/vehicle/sensor_model/velodyne/velodyne_simulator:vehicle_sim/vehicle/vehicle_model:vehicle_sim/vehicle/vehicle_sim_interface:vehicle_sim/worlds/external/car_demo/prius_description:vehicle_sim/worlds/external/car_demo/prius_msgs:vehicle_sim/worlds/gazebo_world_description
 -DCATKIN_DEVEL_PREFIX=/home/l/test_self/ros_test/devel -DCMAKE_INSTALL_PREFIX=/home/l/test_self/ros_test/install -G Unix Makefiles

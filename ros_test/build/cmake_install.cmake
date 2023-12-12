@@ -131,6 +131,17 @@ endif()
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
   include("/home/l/test_self/ros_test/build/gtest/cmake_install.cmake")
+  include("/home/l/test_self/ros_test/build/vehicle_sim/vehicle/sensor_model/camera/camera_description/cmake_install.cmake")
+  include("/home/l/test_self/ros_test/build/vehicle_sim/worlds/gazebo_world_description/cmake_install.cmake")
+  include("/home/l/test_self/ros_test/build/vehicle_sim/vehicle/sensor_model/imu/imu_description/cmake_install.cmake")
+  include("/home/l/test_self/ros_test/build/vehicle_sim/worlds/external/car_demo/prius_msgs/cmake_install.cmake")
+  include("/home/l/test_self/ros_test/build/vehicle_sim/vehicle/sensor_model/velodyne/velodyne_description/cmake_install.cmake")
+  include("/home/l/test_self/ros_test/build/vehicle_sim/vehicle/sensor_model/velodyne/velodyne_simulator/cmake_install.cmake")
+  include("/home/l/test_self/ros_test/build/vehicle_sim/worlds/external/car_demo/prius_description/cmake_install.cmake")
+  include("/home/l/test_self/ros_test/build/vehicle_sim/vehicle/vehicle_sim_interface/cmake_install.cmake")
+  include("/home/l/test_self/ros_test/build/vehicle_sim/vehicle/sensor_model/velodyne/velodyne_gazebo_plugins/cmake_install.cmake")
+  include("/home/l/test_self/ros_test/build/vehicle_sim/vehicle/vehicle_model/cmake_install.cmake")
+  include("/home/l/test_self/ros_test/build/vehicle_sim/launcher/vehicle_sim_launcher/cmake_install.cmake")
 
 endif()
 
