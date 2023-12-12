@@ -25,7 +25,13 @@ int main()
     cout << "int " << sizeof(int) << endl ;
     cout << "short " << sizeof n_short << endl ;//对变量名使用可以不用括号
 
+
+//C++的初始化语法
     int wrens(432);
-    cout << wrens << endl;//C++的一种初始化语法
+    int enmus{7};
+    int rheas={12};
+    int rocs={};
+    int psychics{};
+    cout << wrens << endl;
     return 0;
 }
